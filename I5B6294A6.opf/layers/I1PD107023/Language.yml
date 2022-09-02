@@ -1,0 +1,199 @@
+id: 7f819bfec9974b6692ca75b643cf70a4
+annotation_type: Language
+revision: '00001'
+annotations:
+  68c9ddfd2dc34d14af68602d897a4e30:
+    span:
+      start: 39
+      end: 719
+    language: en
+  634949d02e3a4cde96e6aec6a9c5c446:
+    span:
+      start: 723
+      end: 791
+    language: zh
+  0f904d08eef24a158b60e70ce1376ce1:
+    span:
+      start: 796
+      end: 1638
+    language: en
+  75185c6074e84c99a818a5053423fbc4:
+    span:
+      start: 1759
+      end: 2449
+    language: en
+  d7ccfb974a424fa6887384b9dbb0fb38:
+    span:
+      start: 2710
+      end: 4705
+    language: en
+  c6b8677ee4f84e6b98804b144cb65f76:
+    span:
+      start: 4962
+      end: 5131
+    language: en
+  717c4a99e17745ff9de16952aaf7cac3:
+    span:
+      start: 5224
+      end: 8316
+    language: en
+  0f148b15bf1d4bedba20b1df3d05ab88:
+    span:
+      start: 8400
+      end: 8690
+    language: en
+  f60b3237f866414290f1d421fc1ea569:
+    span:
+      start: 8777
+      end: 9954
+    language: en
+  c9cb9e06ea084245b31d4f47fe966af0:
+    span:
+      start: 9955
+      end: 10002
+    language: zh
+  727480daf48646baa75f085f2bf621dc:
+    span:
+      start: 10003
+      end: 10046
+    language: en
+  af909a8beda24b2f9a49700f0c80c3f7:
+    span:
+      start: 10047
+      end: 10095
+    language: zh
+  2dab82b4149949979df456ab66a44c7a:
+    span:
+      start: 10096
+      end: 10882
+    language: en
+  39530d4162424b04981915f561600e8a:
+    span:
+      start: 10883
+      end: 10932
+    language: zh
+  9fca0345c037426682676f4927d6fc5d:
+    span:
+      start: 10933
+      end: 12510
+    language: en
+  f74b1b60bcb741d4bfed8a0e4db7782a:
+    span:
+      start: 12617
+      end: 14514
+    language: en
+  e4d5f24d74dd4b1bae8039d335fc3867:
+    span:
+      start: 14520
+      end: 14550
+    language: zh
+  fb0250c151004205ab5fce95c8c738ad:
+    span:
+      start: 14551
+      end: 14597
+    language: en
+  291a1cefc1ac4a7789fefc743c924653:
+    span:
+      start: 14598
+      end: 14739
+    language: zh
+  f49d291f7a8046bda4800db56bbdeb1f:
+    span:
+      start: 14740
+      end: 14783
+    language: en
+  031e441bf79d4cdfbcf209bf1d5dfb67:
+    span:
+      start: 14789
+      end: 14813
+    language: zh
+  d046e866fd1442f6a64784c85683036b:
+    span:
+      start: 14813
+      end: 15534
+    language: en
+  9f151b61e9e145459a983edf63f6d155:
+    span:
+      start: 15539
+      end: 15836
+    language: zh
+  5115d009e8b54f0fa1285a47ff0c9fab:
+    span:
+      start: 15842
+      end: 16403
+    language: en
+  222d46438a8949b29368b573b6cde2cd:
+    span:
+      start: 16423
+      end: 19233
+    language: en
+  2e74ee32c84b4d80b64cbfde69811413:
+    span:
+      start: 19233
+      end: 19261
+    language: zh
+  a46ce250f7e54976ae4ab73c55a37420:
+    span:
+      start: 19261
+      end: 19370
+    language: en
+  5271840461334b8dbb4c5b82d438f9b5:
+    span:
+      start: 19442
+      end: 19838
+    language: en
+  981b888db4644c7eb3e3a7704b65ddc7:
+    span:
+      start: 19838
+      end: 19915
+    language: zh
+  8e79b4962f04462fb42e8cdaa5cb453a:
+    span:
+      start: 19932
+      end: 20022
+    language: en
+  d006dee124c948daa0a4425ebc44f2a5:
+    span:
+      start: 20043
+      end: 20632
+    language: en
+  babe4bb64ef644d4a33512892f87cbe2:
+    span:
+      start: 20663
+      end: 20700
+    language: zh
+  284d006599554672be4413d273f77b47:
+    span:
+      start: 20708
+      end: 20863
+    language: en
+  b76d1b88b440432ab98eabda993829c4:
+    span:
+      start: 20864
+      end: 20922
+    language: zh
+  1dec3f1670e8427b92bd24cc48a69ae0:
+    span:
+      start: 20922
+      end: 21017
+    language: en
+  7e24112f775d4a6d89504a3305b5efdb:
+    span:
+      start: 21022
+      end: 21052
+    language: zh
+  cc8ec96d2d1b46979360e69bfd85482e:
+    span:
+      start: 21052
+      end: 21292
+    language: en
+  a238f51aa14048648f88daca566bdabb:
+    span:
+      start: 21454
+      end: 21575
+    language: en
+  f2fd56fd860241eab2b0f5215ab3bead:
+    span:
+      start: 21646
+      end: 21981
+    language: en

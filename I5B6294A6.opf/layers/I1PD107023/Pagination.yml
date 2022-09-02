@@ -1,0 +1,118 @@
+id: 159beda2b58d4e95b7b3d07d5fc9048e
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  469cf8e624ab4bf19287ea19c65fe94c:
+    span:
+      start: 0
+      end: 560
+    imgnum: 1
+    reference: I1PD1070230001.jpg
+  2098520e78d94b1c9e205a541f18f929:
+    span:
+      start: 561
+      end: 678
+    imgnum: 3
+    reference: I1PD1070230003.JPG
+  906a87d1da0c4e84b39e58530d97792d:
+    span:
+      start: 679
+      end: 730
+    imgnum: 4
+    reference: I1PD1070230004.JPG
+  63ac669d6d6449a8818477f508a1ed12:
+    span:
+      start: 731
+      end: 795
+    imgnum: 5
+    reference: I1PD1070230005.JPG
+  1dd1a95f17864e2bb753edcb546e4154:
+    span:
+      start: 796
+      end: 1801
+    imgnum: 7
+    reference: I1PD1070230007.JPG
+  4b2f5a8092654407902959ac3a35451f:
+    span:
+      start: 1802
+      end: 3449
+    imgnum: 8
+    reference: I1PD1070230008.JPG
+  b92fa356b6ce403687d0c3bd15ba59b2:
+    span:
+      start: 3450
+      end: 5136
+    imgnum: 9
+    reference: I1PD1070230009.JPG
+  89356675c55b48408386ce1b329ffa7f:
+    span:
+      start: 5137
+      end: 6668
+    imgnum: 10
+    reference: I1PD1070230010.JPG
+  aa2227a7b6794d18b64786108743c439:
+    span:
+      start: 6669
+      end: 8028
+    imgnum: 11
+    reference: I1PD1070230011.JPG
+  669604b5a1c14878a7790f064858879f:
+    span:
+      start: 8029
+      end: 9682
+    imgnum: 12
+    reference: I1PD1070230012.JPG
+  ff7930a58e094b5c98f8e27c6a438f92:
+    span:
+      start: 9683
+      end: 11025
+    imgnum: 13
+    reference: I1PD1070230013.JPG
+  0d65b60dd1c04b119511648b0ea6db3f:
+    span:
+      start: 11026
+      end: 12237
+    imgnum: 14
+    reference: I1PD1070230014.JPG
+  c34c9744cd0a44d3a3ccd97b5b9332cd:
+    span:
+      start: 12238
+      end: 13724
+    imgnum: 15
+    reference: I1PD1070230015.JPG
+  7d5206188122438c9c03e5923a18a22f:
+    span:
+      start: 13725
+      end: 14519
+    imgnum: 16
+    reference: I1PD1070230016.JPG
+  5c2a5d98e4694905b3cdef7a8cdcbf9a:
+    span:
+      start: 14520
+      end: 15727
+    imgnum: 17
+    reference: I1PD1070230017.JPG
+  3ad557bb6ade4cc5acf389a3b282f646:
+    span:
+      start: 15728
+      end: 17497
+    imgnum: 18
+    reference: I1PD1070230018.JPG
+  409efda292c146f38c50633842b9e58c:
+    span:
+      start: 17498
+      end: 19211
+    imgnum: 19
+    reference: I1PD1070230019.JPG
+  2271af1a91ad453eb992c548285c0ef4:
+    span:
+      start: 19212
+      end: 21080
+    imgnum: 20
+    reference: I1PD1070230020.JPG
+  76bfd2e625ed4367b4013c6f2a27fd15:
+    span:
+      start: 21081
+      end: 21987
+    imgnum: 21
+    reference: I1PD1070230021.JPG
